@@ -1,0 +1,1005 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "VegAnn Multicrop Presence Segmentation grasslands train split",
+    "url": "https://zenodo.org/records/7636408"
+  },
+  "images": [
+    {
+      "id": 3302772697,
+      "file_name": "grasslands/images/VegAnn_3278.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 5868496437,
+      "file_name": "grasslands/images/VegAnn_1002.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 9535155112,
+      "file_name": "grasslands/images/VegAnn_1007.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 9258106363,
+      "file_name": "grasslands/images/VegAnn_1001.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 7121154183,
+      "file_name": "grasslands/images/VegAnn_1013.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 7839664760,
+      "file_name": "grasslands/images/VegAnn_417.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 5418948078,
+      "file_name": "grasslands/images/VegAnn_999.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 9303710253,
+      "file_name": "grasslands/images/VegAnn_997.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 2728501801,
+      "file_name": "grasslands/images/VegAnn_439.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 1790363753,
+      "file_name": "grasslands/images/VegAnn_1012.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 6487703069,
+      "file_name": "grasslands/images/VegAnn_1421.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 4308474261,
+      "file_name": "grasslands/images/VegAnn_998.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 1184761860,
+      "file_name": "grasslands/images/VegAnn_1011.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 6803505729,
+      "file_name": "grasslands/images/VegAnn_1008.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 6201055156,
+      "file_name": "grasslands/images/VegAnn_1014.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 4016442748,
+      "file_name": "grasslands/images/VegAnn_437.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 7574109147,
+      "file_name": "grasslands/images/VegAnn_1017.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 9825854480,
+      "file_name": "grasslands/images/VegAnn_480.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 1159991544,
+      "file_name": "grasslands/images/VegAnn_1426.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 6957030686,
+      "file_name": "grasslands/images/VegAnn_1000.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 3734515056,
+      "file_name": "grasslands/images/VegAnn_1431.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 7813630959,
+      "file_name": "grasslands/images/VegAnn_3024.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 9187540422,
+      "file_name": "grasslands/images/VegAnn_1420.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 7351398632,
+      "file_name": "grasslands/images/VegAnn_1005.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 8264288117,
+      "file_name": "grasslands/images/VegAnn_1430.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 2778068400,
+      "file_name": "grasslands/images/VegAnn_436.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 4189199225,
+      "file_name": "grasslands/images/VegAnn_1429.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 8350677861,
+      "file_name": "grasslands/images/VegAnn_1004.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 4348338942,
+      "file_name": "grasslands/images/VegAnn_1433.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 2650140319,
+      "file_name": "grasslands/images/VegAnn_3287.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 6390140995,
+      "file_name": "grasslands/images/VegAnn_3027.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 2823918110,
+      "file_name": "grasslands/images/VegAnn_1423.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 4245057914,
+      "file_name": "grasslands/images/VegAnn_1003.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 4341949650,
+      "file_name": "grasslands/images/VegAnn_484.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 2982383270,
+      "file_name": "grasslands/images/VegAnn_1015.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 2144452345,
+      "file_name": "grasslands/images/VegAnn_1422.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 9525352758,
+      "file_name": "grasslands/images/VegAnn_1434.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 4202592751,
+      "file_name": "grasslands/images/VegAnn_996.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 1537018652,
+      "file_name": "grasslands/images/VegAnn_3277.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 3829647826,
+      "file_name": "grasslands/images/VegAnn_3025.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 6098755826,
+      "file_name": "grasslands/images/VegAnn_438.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 4146560424,
+      "file_name": "grasslands/images/VegAnn_1009.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 1887500795,
+      "file_name": "grasslands/images/VegAnn_1006.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 3277870748,
+      "file_name": "grasslands/images/VegAnn_3279.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 2016180193,
+      "file_name": "grasslands/images/VegAnn_1424.png",
+      "width": 512,
+      "height": 512
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 3302772697,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5868496437,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 9535155112,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 9258106363,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 7121154183,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 7839664760,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 5418948078,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 9303710253,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 2728501801,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 1790363753,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 6487703069,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 4308474261,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 1184761860,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 6803505729,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 6201055156,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 4016442748,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 17,
+      "image_id": 7574109147,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 18,
+      "image_id": 9825854480,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 19,
+      "image_id": 1159991544,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 20,
+      "image_id": 6957030686,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 21,
+      "image_id": 3734515056,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 22,
+      "image_id": 7813630959,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 23,
+      "image_id": 9187540422,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 24,
+      "image_id": 7351398632,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 25,
+      "image_id": 8264288117,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 26,
+      "image_id": 2778068400,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 27,
+      "image_id": 4189199225,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 28,
+      "image_id": 8350677861,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 29,
+      "image_id": 4348338942,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 30,
+      "image_id": 2650140319,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 31,
+      "image_id": 6390140995,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 32,
+      "image_id": 2823918110,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 33,
+      "image_id": 4245057914,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 34,
+      "image_id": 4341949650,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 35,
+      "image_id": 2982383270,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 36,
+      "image_id": 2144452345,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 37,
+      "image_id": 9525352758,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 38,
+      "image_id": 4202592751,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 39,
+      "image_id": 1537018652,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 40,
+      "image_id": 3829647826,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 41,
+      "image_id": 6098755826,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 42,
+      "image_id": 4146560424,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 43,
+      "image_id": 1887500795,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 44,
+      "image_id": 3277870748,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 45,
+      "image_id": 2016180193,
+      "category_id": 20,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "alfalfa",
+      "supercategory": "crop"
+    },
+    {
+      "id": 2,
+      "name": "barley",
+      "supercategory": "crop"
+    },
+    {
+      "id": 3,
+      "name": "bean",
+      "supercategory": "crop"
+    },
+    {
+      "id": 4,
+      "name": "cabbage",
+      "supercategory": "crop"
+    },
+    {
+      "id": 5,
+      "name": "faba_beans",
+      "supercategory": "crop"
+    },
+    {
+      "id": 6,
+      "name": "grassland",
+      "supercategory": "crop"
+    },
+    {
+      "id": 7,
+      "name": "maize",
+      "supercategory": "crop"
+    },
+    {
+      "id": 8,
+      "name": "mix",
+      "supercategory": "crop"
+    },
+    {
+      "id": 9,
+      "name": "mustard",
+      "supercategory": "crop"
+    },
+    {
+      "id": 10,
+      "name": "oat",
+      "supercategory": "crop"
+    },
+    {
+      "id": 11,
+      "name": "onion",
+      "supercategory": "crop"
+    },
+    {
+      "id": 12,
+      "name": "pea",
+      "supercategory": "crop"
+    },
+    {
+      "id": 13,
+      "name": "pepper",
+      "supercategory": "crop"
+    },
+    {
+      "id": 14,
+      "name": "potato",
+      "supercategory": "crop"
+    },
+    {
+      "id": 15,
+      "name": "radish",
+      "supercategory": "crop"
+    },
+    {
+      "id": 16,
+      "name": "rapeseed",
+      "supercategory": "crop"
+    },
+    {
+      "id": 17,
+      "name": "raspberry",
+      "supercategory": "crop"
+    },
+    {
+      "id": 18,
+      "name": "rice",
+      "supercategory": "crop"
+    },
+    {
+      "id": 19,
+      "name": "sorghum",
+      "supercategory": "crop"
+    },
+    {
+      "id": 20,
+      "name": "sorrel",
+      "supercategory": "crop"
+    },
+    {
+      "id": 21,
+      "name": "soybean",
+      "supercategory": "crop"
+    },
+    {
+      "id": 22,
+      "name": "sugarbeet",
+      "supercategory": "crop"
+    },
+    {
+      "id": 23,
+      "name": "sunflower",
+      "supercategory": "crop"
+    },
+    {
+      "id": 24,
+      "name": "tabacco",
+      "supercategory": "crop"
+    },
+    {
+      "id": 25,
+      "name": "vetch",
+      "supercategory": "crop"
+    },
+    {
+      "id": 26,
+      "name": "wheat",
+      "supercategory": "crop"
+    }
+  ],
+  "licenses": []
+}

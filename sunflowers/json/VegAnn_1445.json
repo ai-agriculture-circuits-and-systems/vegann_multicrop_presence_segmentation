@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7218197632,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_1445.png",
+      "size": 432535,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8861707632,
+      "image_id": 7218197632,
+      "category_id": 11,
+      "segmentation": [
+        [
+          0,
+          93,
+          511,
+          93,
+          511,
+          435,
+          0,
+          435
+        ]
+      ],
+      "area": 174762,
+      "bbox": [
+        0,
+        93,
+        511,
+        342
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 11,
+      "name": "Sunflower",
+      "supercategory": "vegann"
+    }
+  ]
+}

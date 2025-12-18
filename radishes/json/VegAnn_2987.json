@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 3240092654,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_2987.png",
+      "size": 395945,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3074275654,
+      "image_id": 3240092654,
+      "category_id": 13,
+      "segmentation": [
+        [
+          198,
+          0,
+          511,
+          0,
+          511,
+          243,
+          198,
+          243
+        ]
+      ],
+      "area": 76059,
+      "bbox": [
+        198,
+        0,
+        313,
+        243
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 13,
+      "name": "Radish",
+      "supercategory": "vegann"
+    }
+  ]
+}

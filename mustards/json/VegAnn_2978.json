@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5917286654,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_2978.png",
+      "size": 467350,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7420421654,
+      "image_id": 5917286654,
+      "category_id": 19,
+      "segmentation": [
+        [
+          31,
+          63,
+          511,
+          63,
+          511,
+          234,
+          31,
+          234
+        ]
+      ],
+      "area": 82080,
+      "bbox": [
+        31,
+        63,
+        480,
+        171
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 19,
+      "name": "Mustard",
+      "supercategory": "vegann"
+    }
+  ]
+}

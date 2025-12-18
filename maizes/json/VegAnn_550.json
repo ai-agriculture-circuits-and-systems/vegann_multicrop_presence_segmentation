@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2620336622,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_550.png",
+      "size": 404098,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7567074622,
+      "image_id": 2620336622,
+      "category_id": 17,
+      "segmentation": [
+        [
+          0,
+          17,
+          511,
+          17,
+          511,
+          511,
+          0,
+          511
+        ]
+      ],
+      "area": 252434,
+      "bbox": [
+        0,
+        17,
+        511,
+        494
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 17,
+      "name": "Maize",
+      "supercategory": "vegann"
+    }
+  ]
+}

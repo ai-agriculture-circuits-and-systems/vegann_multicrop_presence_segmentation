@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4866627658,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_3227.png",
+      "size": 560850,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6523611658,
+      "image_id": 4866627658,
+      "category_id": 3,
+      "segmentation": [
+        [
+          0,
+          0,
+          511,
+          0,
+          511,
+          507,
+          0,
+          507
+        ]
+      ],
+      "area": 259077,
+      "bbox": [
+        0,
+        0,
+        511,
+        507
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 3,
+      "name": "Raspberry",
+      "supercategory": "vegann"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5998654634,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_1688.png",
+      "size": 566076,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7010185634,
+      "image_id": 5998654634,
+      "category_id": 4,
+      "segmentation": [
+        [
+          20,
+          0,
+          511,
+          0,
+          511,
+          511,
+          20,
+          511
+        ]
+      ],
+      "area": 250901,
+      "bbox": [
+        20,
+        0,
+        491,
+        511
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 4,
+      "name": "Wheat",
+      "supercategory": "vegann"
+    }
+  ]
+}

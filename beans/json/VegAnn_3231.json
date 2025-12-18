@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4538141658,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_3231.png",
+      "size": 539632,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3613287658,
+      "image_id": 4538141658,
+      "category_id": 12,
+      "segmentation": [
+        [
+          0,
+          0,
+          511,
+          0,
+          511,
+          511,
+          0,
+          511
+        ]
+      ],
+      "area": 261121,
+      "bbox": [
+        0,
+        0,
+        511,
+        511
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 12,
+      "name": "Bean",
+      "supercategory": "vegann"
+    }
+  ]
+}

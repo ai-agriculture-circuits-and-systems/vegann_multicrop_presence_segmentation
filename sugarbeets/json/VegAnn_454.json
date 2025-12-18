@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9164019621,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_454.png",
+      "size": 276422,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4259228621,
+      "image_id": 9164019621,
+      "category_id": 7,
+      "segmentation": [
+        [
+          28,
+          0,
+          283,
+          0,
+          283,
+          464,
+          28,
+          464
+        ]
+      ],
+      "area": 118320,
+      "bbox": [
+        28,
+        0,
+        255,
+        464
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 7,
+      "name": "Sugarbeet",
+      "supercategory": "vegann"
+    }
+  ]
+}

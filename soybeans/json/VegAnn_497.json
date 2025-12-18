@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2250269621,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_497.png",
+      "size": 436211,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4019097621,
+      "image_id": 2250269621,
+      "category_id": 22,
+      "segmentation": [
+        [
+          0,
+          57,
+          511,
+          57,
+          511,
+          321,
+          0,
+          321
+        ]
+      ],
+      "area": 134904,
+      "bbox": [
+        0,
+        57,
+        511,
+        264
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 22,
+      "name": "Soybean",
+      "supercategory": "vegann"
+    }
+  ]
+}

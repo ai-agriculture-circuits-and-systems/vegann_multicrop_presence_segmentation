@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2021932629,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_1180.png",
+      "size": 503271,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2748994629,
+      "image_id": 2021932629,
+      "category_id": 18,
+      "segmentation": [
+        [
+          0,
+          0,
+          242,
+          0,
+          242,
+          95,
+          0,
+          95
+        ]
+      ],
+      "area": 22990,
+      "bbox": [
+        0,
+        0,
+        242,
+        95
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 18,
+      "name": "Rapeseed",
+      "supercategory": "vegann"
+    }
+  ]
+}

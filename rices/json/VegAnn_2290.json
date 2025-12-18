@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7507905642,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_2290.png",
+      "size": 361582,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7316362642,
+      "image_id": 7507905642,
+      "category_id": 24,
+      "segmentation": [
+        [
+          22,
+          0,
+          408,
+          0,
+          408,
+          511,
+          22,
+          511
+        ]
+      ],
+      "area": 197246,
+      "bbox": [
+        22,
+        0,
+        386,
+        511
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 24,
+      "name": "Rice",
+      "supercategory": "vegann"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6530294617,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_172.png",
+      "size": 589053,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6996349617,
+      "image_id": 6530294617,
+      "category_id": 6,
+      "segmentation": [
+        [
+          71,
+          1,
+          463,
+          1,
+          463,
+          511,
+          71,
+          511
+        ]
+      ],
+      "area": 199920,
+      "bbox": [
+        71,
+        1,
+        392,
+        510
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 6,
+      "name": "Mix",
+      "supercategory": "vegann"
+    }
+  ]
+}

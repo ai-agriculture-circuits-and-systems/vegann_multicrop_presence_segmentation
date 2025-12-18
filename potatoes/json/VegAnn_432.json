@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8663015620,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_432.png",
+      "size": 500501,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3386801620,
+      "image_id": 8663015620,
+      "category_id": 15,
+      "segmentation": [
+        [
+          0,
+          0,
+          511,
+          0,
+          511,
+          427,
+          0,
+          427
+        ]
+      ],
+      "area": 218197,
+      "bbox": [
+        0,
+        0,
+        511,
+        427
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 15,
+      "name": "Potato",
+      "supercategory": "vegann"
+    }
+  ]
+}

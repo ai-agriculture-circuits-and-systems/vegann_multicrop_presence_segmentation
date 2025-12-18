@@ -1,0 +1,378 @@
+{
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "description": "VegAnn Multicrop Presence Segmentation soybeans train split",
+    "url": "https://zenodo.org/records/7636408"
+  },
+  "images": [
+    {
+      "id": 3241749539,
+      "file_name": "soybeans/images/VegAnn_461.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 5120646980,
+      "file_name": "soybeans/images/VegAnn_499.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 8353170806,
+      "file_name": "soybeans/images/VegAnn_462.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 1686571496,
+      "file_name": "soybeans/images/VegAnn_448.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 6393454558,
+      "file_name": "soybeans/images/VegAnn_987.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 5120575778,
+      "file_name": "soybeans/images/VegAnn_985.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 9221998266,
+      "file_name": "soybeans/images/VegAnn_984.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 7623549643,
+      "file_name": "soybeans/images/VegAnn_986.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 3962060759,
+      "file_name": "soybeans/images/VegAnn_982.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 4762020054,
+      "file_name": "soybeans/images/VegAnn_498.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 9524339281,
+      "file_name": "soybeans/images/VegAnn_500.png",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": 2801478833,
+      "file_name": "soybeans/images/VegAnn_497.png",
+      "width": 512,
+      "height": 512
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 3241749539,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 5120646980,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        211.0,
+        511.0,
+        300.0
+      ],
+      "area": 153300.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 8353170806,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 1686571496,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 6393454558,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 5120575778,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 9221998266,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 7623549643,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 3962060759,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        0.0,
+        511.0,
+        511.0
+      ],
+      "area": 261121.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 4762020054,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        139.0,
+        511.0,
+        303.0
+      ],
+      "area": 154833.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 9524339281,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        148.0,
+        511.0,
+        363.0
+      ],
+      "area": 185493.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 2801478833,
+      "category_id": 22,
+      "bbox": [
+        0.0,
+        57.0,
+        511.0,
+        264.0
+      ],
+      "area": 134904.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "background",
+      "supercategory": "background"
+    },
+    {
+      "id": 1,
+      "name": "alfalfa",
+      "supercategory": "crop"
+    },
+    {
+      "id": 2,
+      "name": "barley",
+      "supercategory": "crop"
+    },
+    {
+      "id": 3,
+      "name": "bean",
+      "supercategory": "crop"
+    },
+    {
+      "id": 4,
+      "name": "cabbage",
+      "supercategory": "crop"
+    },
+    {
+      "id": 5,
+      "name": "faba_beans",
+      "supercategory": "crop"
+    },
+    {
+      "id": 6,
+      "name": "grassland",
+      "supercategory": "crop"
+    },
+    {
+      "id": 7,
+      "name": "maize",
+      "supercategory": "crop"
+    },
+    {
+      "id": 8,
+      "name": "mix",
+      "supercategory": "crop"
+    },
+    {
+      "id": 9,
+      "name": "mustard",
+      "supercategory": "crop"
+    },
+    {
+      "id": 10,
+      "name": "oat",
+      "supercategory": "crop"
+    },
+    {
+      "id": 11,
+      "name": "onion",
+      "supercategory": "crop"
+    },
+    {
+      "id": 12,
+      "name": "pea",
+      "supercategory": "crop"
+    },
+    {
+      "id": 13,
+      "name": "pepper",
+      "supercategory": "crop"
+    },
+    {
+      "id": 14,
+      "name": "potato",
+      "supercategory": "crop"
+    },
+    {
+      "id": 15,
+      "name": "radish",
+      "supercategory": "crop"
+    },
+    {
+      "id": 16,
+      "name": "rapeseed",
+      "supercategory": "crop"
+    },
+    {
+      "id": 17,
+      "name": "raspberry",
+      "supercategory": "crop"
+    },
+    {
+      "id": 18,
+      "name": "rice",
+      "supercategory": "crop"
+    },
+    {
+      "id": 19,
+      "name": "sorghum",
+      "supercategory": "crop"
+    },
+    {
+      "id": 20,
+      "name": "sorrel",
+      "supercategory": "crop"
+    },
+    {
+      "id": 21,
+      "name": "soybean",
+      "supercategory": "crop"
+    },
+    {
+      "id": 22,
+      "name": "sugarbeet",
+      "supercategory": "crop"
+    },
+    {
+      "id": 23,
+      "name": "sunflower",
+      "supercategory": "crop"
+    },
+    {
+      "id": 24,
+      "name": "tabacco",
+      "supercategory": "crop"
+    },
+    {
+      "id": 25,
+      "name": "vetch",
+      "supercategory": "crop"
+    },
+    {
+      "id": 26,
+      "name": "wheat",
+      "supercategory": "crop"
+    }
+  ],
+  "licenses": []
+}

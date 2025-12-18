@@ -1,0 +1,59 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 8003309652,
+      "width": 512,
+      "height": 512,
+      "file_name": "VegAnn_2914.png",
+      "size": 394413,
+      "format": "PNG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1700273652,
+      "image_id": 8003309652,
+      "category_id": 8,
+      "segmentation": [
+        [
+          0,
+          0,
+          265,
+          0,
+          265,
+          372,
+          0,
+          372
+        ]
+      ],
+      "area": 98580,
+      "bbox": [
+        0,
+        0,
+        265,
+        372
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 8,
+      "name": "Faba beans",
+      "supercategory": "vegann"
+    }
+  ]
+}
